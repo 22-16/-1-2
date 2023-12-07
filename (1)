@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<HEAD>
+  <BODY>
+<h1>My fisrt practical of programming</h1>
+  <h2>Introduction about me</h2>
+<section>
+  <h2>My hobby</h2>
+<aside>
+  <p>The main hings which I use and with like working: Pinterest, Music platform(Spotify), Cooking, Walking and Swimming.</p>
+<ul>
+  <li>Pinterest</li>
+  <p><p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1iU-GKQQcZLpHRWDQajTZmfljhGhXD__AA&usqp=CAU" width="100" height="100"></p>
+  <li>Music platform(Spotify)</li>
+  <p><p><img src="https://w7.pngwing.com/pngs/156/858/png-transparent-girl-listen-music-with-headphone.png" width="100" height="100"></p>
+  <li>Cooking</li>
+  <p><p><img src="https://bansaloilandfoods.com/wp-content/uploads/2022/12/scale.jpg" width="100" height="100"></p>
+  <li>Swimming.</li>
+  <p><p><img src="https://i.insider.com/5f215ab2f34d053b674489d4?width=1136&format=jpeg" width="100" height="100"></p>
+</ul>
+</aside>
+  <p>Usually I`m choise work where i can relaxing from results. For example runing with listening music, it helps me be pationable(music is motivation for me). 
+Or I can save some pictures which i liked(I use Pinterest for saving numerous ideas for future new life hacks using(in cooking sphere, for example). Cooking for me it some relax but I started studying not so long ago, so now I`m not proffesional.
+Swimming for me action where you need be strong for fast movement. I know about future swimmig-lessons in winter, I think i will be interesting. 
+  </p>
+  <p><a href="https://www.youtube.com/@recipes_multivarka">Рецепти для готування в мультиварці</a></p>
+<p><a href="https://www.youtube.com/@phonkjams84">Фонки для мотивації</a></p>
+<p><a href="https://www.youtube.com/@UkrainianSportTV/videos">Різноманітна інформація про любителей спорту</a></p>
+</section>
+</BODY>
+</HEAD>
